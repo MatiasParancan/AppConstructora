@@ -60,6 +60,8 @@
         </div>
         <div class="container body-content">
             <asp:ContentPlaceHolder ID="MainContent" runat="server">
+                <p>
+                    &nbsp;</p>
             </asp:ContentPlaceHolder>
             <hr />
             <footer>
